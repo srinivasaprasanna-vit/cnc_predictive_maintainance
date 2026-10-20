@@ -2,8 +2,6 @@
 
 A machine learning pipeline for CNC milling that estimates the Remaining Useful Life (RUL) of cutting tools from spindle vibration and current signals, and uses the estimates for two downstream tasks: tungsten-carbide price-aware spare tool stock planning, and capacity-constrained maintenance scheduling. Results are presented through a Tkinter dashboard.
 
-This repository contains the implementation accompanying the paper by Gowtham R Nair and Srinivasa Prasanna P G, Department of Mechanical Engineering, VIT Chennai.
-
 ## Overview
 
 The system consists of five stages:
