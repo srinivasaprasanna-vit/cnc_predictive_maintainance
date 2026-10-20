@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+openpyxl
+xgboost
+scikit-learn
+statsmodels
+pandas-datareader
+joblib
+tqdm
+matplotlib

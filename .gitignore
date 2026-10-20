@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+# The raw dataset is ~112 GB - never commit it. Download it from Kaggle (see README).
+data/
+# Generated outputs
+results/*.csv
+prices/*.csv
+models/*.json
+models/*.csv
+!results/.gitkeep
+!prices/.gitkeep
